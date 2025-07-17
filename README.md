@@ -1,5 +1,7 @@
 swaync-mocha-wave 🌊
 
+![Tema Önizleme](swaync-mocha-wave-/Screenshot_2025-07-17-20-29-53_7103.png)
+
 Swaync için özel bir renk teması: Mocha ve Mavi karışımı, dalga esintisiyle.
 Açık kaynak ve kolay kurulabilir.
 English
