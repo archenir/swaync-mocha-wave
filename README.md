@@ -1,4 +1,4 @@
-swaync-mocha-wave 🌊
+![Tema Önizleme](Adsız.jpg)
 
 ![Tema Önizleme](Screenshot_2025-07-17-20-29-53_7103.png)
 
