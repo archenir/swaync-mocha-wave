@@ -26,7 +26,7 @@ Kurulum
 
     Depoyu klonlayın:
 
-git clone https://github.com/kullaniciadi/swaync-mocha-wave.git
+git clone https://github.com/archenir/swaync-mocha-wave-.git
 
 Klonlanan dizindeki .config klasörünü swaync konfigürasyon dizininize yapıştırın:
 
